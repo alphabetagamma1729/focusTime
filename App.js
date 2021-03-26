@@ -12,7 +12,7 @@ const STATUSES = {
   COMPLETE: 1,
   CANCELLED: 2,
 };
-
+//adding a random comment to test git
 export default function App() {
   const [focusSubject, setFocusSubject] = useState(null);
   const [focusHistory, setFocusHistory] = useState([]);
