@@ -88,7 +88,7 @@ useEffect(()=> {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.cambridgeBlue,
+    backgroundColor: colors.azure,
     paddingTop: Platform.OS === 'ios' ? spacing.md : spacing.lg,
   },
 });
